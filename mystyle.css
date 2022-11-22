@@ -1,0 +1,65 @@
+body{
+border-style: double;
+border: 5px solid black;
+background-color:#47537B;
+width: 800px;
+margin: auto;
+text-align:center;
+}
+h1{
+background-color: white;
+margin:auto;
+padding:auto;
+border-top: dotted;
+text-align: center;
+}
+.one{
+text-align: left;
+background-color: white;
+border-spacing:auto;
+margin:3;
+padding:auto;
+font-size: 120%;
+}
+.two{
+background-color: white;
+border-top: dotted;
+margin:3;
+padding:3;
+text-align: center;
+}
+.three{
+float: left;
+border: double;
+width: 200px;
+clear:left;
+}
+.four{
+text-align: left;
+background-color: white;
+border-spacing:auto;
+margin:3;
+padding:3;
+font-size: 120%;
+}
+.five{
+float: right;
+border: double;
+width: 200px;
+clear:right;
+}
+.seven{
+float: left;
+border: double;
+width: 140px;
+overflow:auto;
+height:100px;
+}
+.six{
+text-align:left;
+border-spacing:0;
+margin: 3;
+padding: 3;
+font-size: 120%;
+background-color: white;
+}
